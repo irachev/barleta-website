@@ -1,0 +1,15 @@
+<database name="barleta" defaultIdMethod="native">
+
+    <table name="user">
+        <column name="id" type="integer" required="true" primaryKey="true" autoIncrement="true"/>
+        <column name="first_name" type="varchar" size="255" required="true"/>
+        <column name="last_name" type="varchar" size="255" required="true"/>
+    </table>
+    <table name="product">
+        <column name="id" type="integer" required="true" primaryKey="true" autoIncrement="true" />
+        <column name="name" type="VARCHAR" size="255" />
+        <column name="description" type="TEXT" />
+        <column name="description" type="FLOAT" default="0" />
+
+    </table>
+</database>

@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d84c2702-a2fc-4277-9c90-f64dd455b074" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="862630546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="112" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="13" />
+          <entry key="project.open.time.11" value="21" />
+          <entry key="project.open.time.12" value="26" />
+          <entry key="project.open.time.13" value="12" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="16" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="19" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="140" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="8" />
+          <entry key="html" value="204" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="119" />
+          <entry key="less" value="3" />
+          <entry key="png" value="2" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="204" />
+          <entry key="Image" value="3" />
+          <entry key="JavaScript" value="119" />
+          <entry key="Less" value="3" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="423" />
+          <entry key="html" value="1001" />
+          <entry key="js" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="423" />
+          <entry key="HTML" value="1001" />
+          <entry key="JavaScript" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.25768667">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/picker_date.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1000">
+                  <caret line="59" column="24" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/form_checkboxes_radios.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="860">
+                  <caret line="52" column="7" selection-start-line="50" selection-start-column="3" selection-end-line="52" selection-end-column="7" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/uploader_dropzone.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1060">
+                  <caret line="53" column="70" selection-start-line="53" selection-start-column="70" selection-end-line="53" selection-end-column="70" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/uploader_bootstrap.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="600">
+                  <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/uploader_bootstrap.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2100">
+                  <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/plugins/forms/styling/switch.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/form_select2.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="520">
+                  <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="38" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/form_bootstrap_select.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="23120">
+                  <caret line="1156" column="71" selection-start-line="1156" selection-start-column="55" selection-end-line="1156" selection-end-column="71" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/js/charts/echarts/bars_tornados.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="229">
+                  <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/charts/echarts/lines_areas.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="13080">
+                  <caret line="663" column="53" selection-start-line="663" selection-start-column="11" selection-end-line="663" selection-end-column="53" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/animations_velocity_ui.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/c3_advanced.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="256">
+                  <caret line="1131" selection-start-line="1131" selection-end-line="1131" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/charts/c3/c3_advanced.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/general_widgets_stats.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="35540">
+                  <caret line="1777" column="110" selection-start-line="1777" selection-start-column="87" selection-end-line="1777" selection-end-column="110" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/general_widgets_stats.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="21780">
+                  <caret line="1098" column="25" selection-start-line="1098" selection-start-column="25" selection-end-line="1098" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/charts/c3/c3_lines_areas.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/plugins/visualization/c3/c3.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="80">
+                  <caret line="4" column="12432" selection-start-line="4" selection-start-column="12432" selection-end-line="4" selection-end-column="12432" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/plugins/visualization/echarts/echarts.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/js/pages/table_responsive.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dropzone_single</find>
+      <find>Custom checked</find>
+      <find>footable</find>
+      <find>The basi</find>
+      <find>Basic options</find>
+      <find>accordion</find>
+      <find>collapse</find>
+      <find>data-toggle=&quot;collapse&quot;</find>
+      <find>datatable-responsive</find>
+      <find>Configuration option</find>
+      <find>Support tickets</find>
+      <find>Default ordering</find>
+      <find>stacked_bars</find>
+      <find>Stacked bar chart</find>
+      <find>londinium</find>
+      <find>Area multiples</find>
+      <find>Stacked area chart</find>
+      <find>area_stacked_chart</find>
+      <find>Categorized axis</find>
+      <find>c3-axis-categorized</find>
+      <find>progressPercentage</find>
+      <find>Tickets statistics</find>
+      <find>progress_percentage_two</find>
+      <find>area</find>
+      <find>Basic area</find>
+      <find>basic_area_options</find>
+      <find>basic_area</find>
+      <find>c3-axis-categorized-head-organization</find>
+      <find>c3.generate</find>
+      <find>c3_advanced.html</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Contipso7\Desktop\THEMES\limitless\limitless_1_6\layout_1\LTR\default\assets\js</dir>
+      <dir>calendar</dir>
+      <dir>C:\Users\Contipso7\Desktop\THEMES\limitless\limitless_1_6\layout_1\LTR\default\assets\js\pages</dir>
+      <dir>C:\Users\Contipso7\Desktop\THEMES\limitless\limitless_1_6\layout_1\LTR\default\assets\css</dir>
+      <dir>C:\Users\Contipso7\Desktop\THEMES\limitless\limitless_1_6\layout_1\LTR\default</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/js/pages/components_notifications_pnotify.js" />
+        <option value="$PROJECT_DIR$/components_loaders.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/tables/datatables/datatables.min.js" />
+        <option value="$PROJECT_DIR$/general_widgets_stats.html" />
+        <option value="$PROJECT_DIR$/user_pages_cards.html" />
+        <option value="$PROJECT_DIR$/general_widgets_content.html" />
+        <option value="$PROJECT_DIR$/mail_list.html" />
+        <option value="$PROJECT_DIR$/assets/js/core/app.js" />
+        <option value="$PROJECT_DIR$/task_manager_list.html" />
+        <option value="$PROJECT_DIR$/form_floating_labels.html" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/../../../../../../individualenGrafik.html" />
+        <option value="$PROJECT_DIR$/components_thumbnails.html" />
+        <option value="$PROJECT_DIR$/navigation_horizontal_tabs.html" />
+        <option value="$PROJECT_DIR$/form_editable.html" />
+        <option value="$PROJECT_DIR$/assets/js/pages/datatables_extension_row_reorder.js" />
+        <option value="$PROJECT_DIR$/appearance_draggable_panels.html" />
+        <option value="$PROJECT_DIR$/extra_sliders_noui.html" />
+        <option value="$PROJECT_DIR$/../../../../../../custom.css" />
+        <option value="$PROJECT_DIR$/try.html" />
+        <option value="$PROJECT_DIR$/assets/js/pages/datatables_responsive.js" />
+        <option value="$PROJECT_DIR$/datatable_responsive.html" />
+        <option value="$PROJECT_DIR$/sidebar_detached_sticky_custom.html" />
+        <option value="$PROJECT_DIR$/assets/js/pages/components_loaders.js" />
+        <option value="$PROJECT_DIR$/assets/js/plugins/tables/footable/footable.min.js" />
+        <option value="$PROJECT_DIR$/datatable_extension_fixed_columns.html" />
+        <option value="$PROJECT_DIR$/form_select2.html" />
+        <option value="$PROJECT_DIR$/assets/js/pages/form_select2.js" />
+        <option value="$PROJECT_DIR$/assets/js/pages/animations_css3.js" />
+        <option value="$PROJECT_DIR$/form_select_box_it.html" />
+        <option value="$PROJECT_DIR$/form_multiselect.html" />
+        <option value="$PROJECT_DIR$/assets/js/pages/form_multiselect.js" />
+        <option value="$PROJECT_DIR$/assets/js/pages/uploader_bootstrap.js" />
+        <option value="$PROJECT_DIR$/assets/js/pages/uploader_dropzone.js" />
+        <option value="$PROJECT_DIR$/uploader_dropzone.html" />
+        <option value="$PROJECT_DIR$/form_checkboxes_radios.html" />
+        <option value="$PROJECT_DIR$/echarts_bars_tornados.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10161" />
+    <option name="y" value="1046" />
+    <option name="width" value="5787" />
+    <option name="height" value="3126" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="default" type="b2602c69:ProjectViewProjectNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="default" type="b2602c69:ProjectViewProjectNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d84c2702-a2fc-4277-9c90-f64dd455b074" name="Default Changelist" comment="" />
+      <created>1541755376884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541755376884</updated>
+      <workItem from="1541755378099" duration="8933000" />
+      <workItem from="1542008578189" duration="2498000" />
+      <workItem from="1542182704043" duration="12095000" />
+      <workItem from="1542285353372" duration="599000" />
+      <workItem from="1542286109989" duration="425000" />
+      <workItem from="1542287803317" duration="3407000" />
+      <workItem from="1542611332897" duration="33334000" />
+      <workItem from="1542787588664" duration="8825000" />
+      <workItem from="1542807566580" duration="6051000" />
+      <workItem from="1542885190260" duration="16607000" />
+      <workItem from="1543216068584" duration="8645000" />
+      <workItem from="1543236289481" duration="8430000" />
+      <workItem from="1543490466248" duration="2883000" />
+      <workItem from="1543840093628" duration="8373000" />
+      <workItem from="1544020281284" duration="3427000" />
+      <workItem from="1544080115696" duration="12538000" />
+      <workItem from="1544166897543" duration="6360000" />
+      <workItem from="1544425850324" duration="22294000" />
+      <workItem from="1544685320848" duration="1104000" />
+      <workItem from="1544687045979" duration="4443000" />
+      <workItem from="1545222697088" duration="2150000" />
+      <workItem from="1545290061070" duration="2040000" />
+      <workItem from="1545376646152" duration="6231000" />
+      <workItem from="1545895268113" duration="3429000" />
+      <workItem from="1546414261532" duration="13659000" />
+      <workItem from="1546845630347" duration="4612000" />
+      <workItem from="1547104584310" duration="9400000" />
+      <workItem from="1547623312321" duration="3543000" />
+      <workItem from="1548054945139" duration="2776000" />
+      <workItem from="1548140729850" duration="7689000" />
+      <workItem from="1548659913916" duration="677000" />
+      <workItem from="1548832569688" duration="1234000" />
+      <workItem from="1549264659938" duration="17752000" />
+      <workItem from="1549525541553" duration="4247000" />
+      <workItem from="1551450382169" duration="721000" />
+      <workItem from="1551770447529" duration="7339000" />
+      <workItem from="1552302807169" duration="4430000" />
+      <workItem from="1552375688388" duration="711000" />
+      <workItem from="1552547925258" duration="611000" />
+      <workItem from="1552893160376" duration="2407000" />
+      <workItem from="1553152866198" duration="13203000" />
+      <workItem from="1553671022756" duration="2580000" />
+      <workItem from="1553757409488" duration="1830000" />
+      <workItem from="1554185677309" duration="83000" />
+      <workItem from="1554365676435" duration="690000" />
+      <workItem from="1555073355150" duration="846000" />
+      <workItem from="1555308782987" duration="2597000" />
+      <workItem from="1556013590794" duration="897000" />
+      <workItem from="1557209663051" duration="658000" />
+      <workItem from="1557383063094" duration="598000" />
+      <workItem from="1557816606366" duration="36000" />
+      <workItem from="1558968948229" duration="2934000" />
+      <workItem from="1559283465457" duration="1271000" />
+      <workItem from="1559542245352" duration="16000" />
+      <workItem from="1559542324714" duration="16000" />
+      <workItem from="1560323225777" duration="647000" />
+      <workItem from="1560334047030" duration="2835000" />
+      <workItem from="1560493157388" duration="1214000" />
+      <workItem from="1560779847227" duration="9152000" />
+      <workItem from="1562221854283" duration="7891000" />
+      <workItem from="1562566524545" duration="5470000" />
+      <workItem from="1562759101893" duration="1892000" />
+      <workItem from="1563170284843" duration="6146000" />
+      <workItem from="1563777758657" duration="10238000" />
+      <workItem from="1564381876201" duration="13960000" />
+      <workItem from="1564986739031" duration="1581000" />
+      <workItem from="1565073475161" duration="7249000" />
+      <workItem from="1565591085556" duration="7742000" />
+      <workItem from="1566195349454" duration="4758000" />
+      <workItem from="1566368639788" duration="2550000" />
+      <workItem from="1567406335633" duration="1269000" />
+      <workItem from="1568011434169" duration="622000" />
+      <workItem from="1568184629795" duration="596000" />
+      <workItem from="1568276158300" duration="1204000" />
+      <workItem from="1568615563440" duration="629000" />
+      <workItem from="1568701880352" duration="1980000" />
+      <workItem from="1570027214407" duration="2292000" />
+      <workItem from="1570428962147" duration="2162000" />
+      <workItem from="1570601370874" duration="1911000" />
+      <workItem from="1570689115336" duration="2483000" />
+      <workItem from="1571033824482" duration="3555000" />
+      <workItem from="1571207226349" duration="1269000" />
+      <workItem from="1571293638808" duration="612000" />
+      <workItem from="1571638628183" duration="1224000" />
+      <workItem from="1571897855121" duration="871000" />
+      <workItem from="1572246950144" duration="2621000" />
+      <workItem from="1572419858682" duration="598000" />
+      <workItem from="1572851709014" duration="3969000" />
+      <workItem from="1573111412534" duration="2152000" />
+      <workItem from="1573459958587" duration="628000" />
+      <workItem from="1573548683415" duration="599000" />
+      <workItem from="1573715697364" duration="4877000" />
+      <workItem from="1574235892317" duration="1217000" />
+      <workItem from="1574666667478" duration="618000" />
+      <workItem from="1574844898194" duration="652000" />
+      <workItem from="1575271372237" duration="630000" />
+      <workItem from="1575277670386" duration="613000" />
+      <workItem from="1575444064950" duration="2170000" />
+      <workItem from="1575876187796" duration="683000" />
+      <workItem from="1575961974346" duration="40000" />
+      <workItem from="1582113975737" duration="603000" />
+      <workItem from="1582190370460" duration="1207000" />
+      <workItem from="1582270483409" duration="2697000" />
+      <workItem from="1582286149532" duration="598000" />
+      <workItem from="1583768500557" duration="1479000" />
+      <workItem from="1583928071502" duration="726000" />
+      <workItem from="1585298540412" duration="787000" />
+      <workItem from="1588063443658" duration="96000" />
+      <workItem from="1588065531789" duration="645000" />
+      <workItem from="1588689938013" duration="312000" />
+      <workItem from="1588833283266" duration="1922000" />
+      <workItem from="1588860130035" duration="669000" />
+      <workItem from="1589282822220" duration="580000" />
+      <workItem from="1589455823974" duration="1523000" />
+      <workItem from="1589551032210" duration="618000" />
+      <workItem from="1589869436870" duration="20000" />
+      <workItem from="1590586527918" duration="1055000" />
+      <workItem from="1591793043449" duration="880000" />
+      <workItem from="1591858326564" duration="1216000" />
+      <workItem from="1592201064691" duration="52000" />
+      <workItem from="1592201229246" duration="599000" />
+      <workItem from="1592202305282" duration="118000" />
+      <workItem from="1592292702010" duration="787000" />
+      <workItem from="1592316575258" duration="616000" />
+      <workItem from="1592377163437" duration="593000" />
+      <workItem from="1592901089052" duration="1288000" />
+      <workItem from="1592914695943" duration="619000" />
+      <workItem from="1592986738124" duration="1297000" />
+      <workItem from="1593065137263" duration="2154000" />
+      <workItem from="1593150987023" duration="16000" />
+      <workItem from="1593151078409" duration="11000" />
+      <workItem from="1594046246944" duration="643000" />
+      <workItem from="1594102502653" duration="53000" />
+      <workItem from="1595418913365" duration="5149000" />
+      <workItem from="1595483348256" duration="40000" />
+      <workItem from="1595483449213" duration="65000" />
+      <workItem from="1595487423142" duration="2243000" />
+      <workItem from="1596025986028" duration="892000" />
+      <workItem from="1596088972845" duration="599000" />
+      <workItem from="1596435365551" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="459316000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4516" y="465" width="2572" height="1389" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.018106995" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32952496" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/extension_fullcalendar_advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/uploaders/dropzone.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/sidebar_detached_sticky_native.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" selection-start-line="18" selection-end-line="56" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery_description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29540">
+          <caret line="1477" column="24" selection-start-line="1477" selection-start-column="24" selection-end-line="1479" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_widgets_content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27320">
+          <caret line="1366" column="24" selection-start-line="1366" selection-start-column="24" selection-end-line="1409" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form_input_groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35600">
+          <caret line="1780" column="38" selection-start-line="1780" selection-start-column="38" selection-end-line="1780" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27140">
+          <caret line="1357" column="34" selection-start-line="1357" selection-start-column="34" selection-end-line="1357" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form_select_box_it.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26560">
+          <caret line="1328" column="59" selection-start-line="1328" selection-start-column="59" selection-end-line="1328" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animations_velocity_examples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picker_date.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28560">
+          <caret line="1428" column="36" lean-forward="true" selection-start-line="1428" selection-start-column="36" selection-end-line="1431" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation_vertical_collapsible.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpaca_advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29740">
+          <caret line="1487" column="38" selection-start-line="1487" selection-start-column="38" selection-end-line="1487" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components_popups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10200">
+          <caret line="510" column="97" lean-forward="true" selection-start-line="510" selection-start-column="97" selection-end-line="510" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatable_responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22780">
+          <caret line="1139" column="72" selection-start-line="1139" selection-start-column="52" selection-end-line="1139" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/datatables_responsive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form_checkboxes_radios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34100">
+          <caret line="1705" column="36" selection-start-line="1705" selection-start-column="36" selection-end-line="1710" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/form_multiselect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatable_sorting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23040">
+          <caret line="1152" column="20" selection-start-line="1152" selection-start-column="20" selection-end-line="1495" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/datatables_sorting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form_multiselect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32040">
+          <caret line="1602" column="42" selection-start-line="1602" selection-start-column="42" selection-end-line="1602" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pages_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38080">
+          <caret line="1904" column="47" selection-start-line="1904" selection-start-column="47" selection-end-line="1904" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery_library.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23340">
+          <caret line="1167" column="100" selection-start-line="1167" selection-start-column="92" selection-end-line="1167" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/gallery_library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="90" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_trees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23260">
+          <caret line="1163" column="32" selection-start-line="1163" selection-start-column="32" selection-end-line="1205" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/uploader_dropzone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43580">
+          <caret line="2179" column="40" selection-start-line="2179" selection-start-column="40" selection-end-line="2189" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts_bars_tornados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c3_lines_areas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts_lines_areas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="72" lean-forward="true" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c3_axis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/c3/c3_axis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="179" column="50" selection-start-line="179" selection-start-column="50" selection-end-line="179" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/picker_date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/form_checkboxes_radios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="52" column="7" selection-start-line="50" selection-start-column="3" selection-end-line="52" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploader_dropzone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="70" selection-start-line="53" selection-start-column="70" selection-end-line="53" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploader_bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/uploader_bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/forms/styling/switch.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/form_select2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form_bootstrap_select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23120">
+          <caret line="1156" column="71" selection-start-line="1156" selection-start-column="55" selection-end-line="1156" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/echarts/bars_tornados.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/echarts/lines_areas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13080">
+          <caret line="663" column="53" selection-start-line="663" selection-start-column="11" selection-end-line="663" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animations_velocity_ui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="78" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/c3/c3_advanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_widgets_stats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35540">
+          <caret line="1777" column="110" selection-start-line="1777" selection-start-column="87" selection-end-line="1777" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/general_widgets_stats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21780">
+          <caret line="1098" column="25" selection-start-line="1098" selection-start-column="25" selection-end-line="1098" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/charts/c3/c3_lines_areas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/visualization/c3/c3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="12432" selection-start-line="4" selection-start-column="12432" selection-end-line="4" selection-end-column="12432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/visualization/echarts/echarts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pages/table_responsive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c3_advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="1131" selection-start-line="1131" selection-end-line="1131" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

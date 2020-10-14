@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b27d967-83d6-45ce-999a-02866deca7a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2005205992">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JavaScript" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/datatable_extension_colvis.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/datatables_extension_colvis.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="820">
+              <caret line="50" column="9" selection-start-line="43" selection-start-column="7" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/form_checkboxes_radios.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="1717" column="46" selection-start-line="1717" selection-start-column="46" selection-end-line="1717" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/error_offline.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/extra_sliders_noui.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32800">
+              <caret line="1640" column="79" selection-start-line="1640" selection-start-column="79" selection-end-line="1640" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/form_input_groups.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35740">
+              <caret line="1787" column="96" selection-start-line="1787" selection-start-column="40" selection-end-line="1787" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/form_input_groups.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="60" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11900">
+              <caret line="604" selection-start-line="604" selection-end-line="604" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/extra_sliders_noui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4120">
+              <caret line="215" column="23" selection-start-line="215" selection-start-column="23" selection-end-line="215" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Basic line</find>
+      <find>chart-container</find>
+      <find>chart</find>
+      <find>basic_lines</find>
+      <find>datatable-colvis-basic</find>
+      <find>text-semibold</find>
+      <find>noui-slider-drag</find>
+      <find>val-demo</find>
+      <find>Drag behaviour</find>
+      <find>noui-slider-drag-upper-val</find>
+      <find>icon-calendar3 position-left</find>
+      <find>Description</find>
+      <find>Home-Dashboard</find>
+      <find>daterange-ranges</find>
+      <find>btn-link</find>
+      <find>menu</find>
+      <find>caret</find>
+      <find>Restore column visibility</find>
+      <find>Support tickets</find>
+      <find>card-bod</find>
+      <find>Value attribute is not set</find>
+      <find>touchspin-set-value</find>
+      <find>text-muted</find>
+      <find>Example with postfix:</find>
+      <find>touchspin-postfix</find>
+      <find>Basic example</find>
+      <find>Aura</find>
+      <find>table</find>
+      <find>datatable-colvis-restore</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Contipso7\Desktop\THEMES\limitless\limitless_1_6</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/layout_1/LTR/default/echarts_lines_areas.html" />
+        <option value="$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/dashboard.js" />
+        <option value="$PROJECT_DIR$/Documentation/index.html" />
+        <option value="$PROJECT_DIR$/layout_1/LTR/default/index.html" />
+        <option value="$PROJECT_DIR$/layout_1/LTR/default/datatable_extension_colvis.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/layout_1/LTR/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_1/LTR/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_1/RTL/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_1/RTL/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_2/LTR/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_2/LTR/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_2/RTL/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_2/RTL/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_3/LTR/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_3/LTR/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_3/RTL/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_3/RTL/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_4/LTR/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_4/LTR/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_4/RTL/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_4/RTL/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_5/LTR/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_5/LTR/material/package.json" />
+      <path value="$PROJECT_DIR$/layout_5/RTL/default/package.json" />
+      <path value="$PROJECT_DIR$/layout_5/RTL/material/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="202" />
+    <option name="width" value="3114" />
+    <option name="height" value="1917" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limitless_1_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limitless_1_6" type="462c0819:PsiDirectoryNode" />
+              <item name="layout_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LTR" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b27d967-83d6-45ce-999a-02866deca7a1" name="Default Changelist" comment="" />
+      <created>1550061178781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550061178781</updated>
+      <workItem from="1550061180272" duration="1567000" />
+      <workItem from="1550068904610" duration="4096000" />
+      <workItem from="1550474547955" duration="12680000" />
+      <workItem from="1594035505765" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1719" height="942" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17739026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/plugins/tables/datatables/extensions/buttons.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/echarts_lines_areas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/charts/echarts/lines_areas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/plugins/tables/datatables/datatables.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_3/LTR/default/ckeditor/samples/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/datatable_extension_colvis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="74" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/datatables_extension_colvis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="50" column="9" selection-start-line="43" selection-start-column="7" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/extra_sliders_noui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32800">
+          <caret line="1640" column="79" selection-start-line="1640" selection-start-column="79" selection-end-line="1640" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/form_input_groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35740">
+          <caret line="1787" column="96" selection-start-line="1787" selection-start-column="40" selection-end-line="1787" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/form_input_groups.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11900">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/assets/js/pages/extra_sliders_noui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4120">
+          <caret line="215" column="23" selection-start-line="215" selection-start-column="23" selection-end-line="215" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/form_checkboxes_radios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="1717" column="46" selection-start-line="1717" selection-start-column="46" selection-end-line="1717" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_1/LTR/default/error_offline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
