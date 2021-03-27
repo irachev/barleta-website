@@ -1,12 +1,16 @@
-<?php  include 'all.php'; ?>
 
+<html lang="en-US">
 
-<!--Колони с асортимент-->
-<script type="text/javascript">
-
-</script>
+<?php include 'headerCommon.php' ?>
 
 <body>
+
+<?php  include 'all.php'; ?>
+
+<!--Колони с асортимент-->
+
+
+
 <div class="container-product">
     <div class="row">
         <div class="col-xl-9 col-lg-10 mx-auto">
@@ -1142,4 +1146,4 @@
 
 </footer>
 </body>
-
+</html>

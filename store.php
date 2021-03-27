@@ -1,5 +1,11 @@
-<?php  include 'all.php'; ?>
+<html lang="en-US">
+
+<?php include 'headerCommon.php' ?>
+
 <body>
+
+<?php  include 'all.php'; ?>
+
 <div class="page-section cta">
     <div class="container">
         <div class="row">
@@ -137,5 +143,5 @@
 
 </footer>
 </body>
-
+</html>
 

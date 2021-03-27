@@ -1,6 +1,11 @@
-<?php  include 'all.php'; ?>
+<html lang="en-US">
+
+<?php include 'headerCommon.php' ?>
 
 <body>
+
+<?php  include 'all.php'; ?>
+
 <div class="container-product">
     <div class="row">
         <div class="col-xl-9 col-lg-10 mx-auto">
@@ -773,4 +778,4 @@
 
 </footer>
 </body>
-
+</html>

@@ -1,6 +1,10 @@
-<?php include 'all.php'; ?>
+<html lang="en-US">
+
+<?php include 'headerCommon.php' ?>
 
 <body>
+
+<?php  include 'all.php'; ?>
 
 
 <div class="container-product">
@@ -1020,3 +1024,4 @@
 </footer>
 
 </body>
+</html>

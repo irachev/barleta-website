@@ -1,10 +1,13 @@
 
-    <?php require_once ("config/config.php"); ?>
-    <?php  include 'all.php'; ?>
+<?php require_once ("config/config.php"); ?>
 
+<html lang="en-US">
 
+<?php include 'headerCommon.php' ?>
 
-    <body>
+<body>
+
+<?php  include 'all.php'; ?>
 
 <div class="slideshow-container">
 
@@ -67,6 +70,7 @@
 
 
 </div>
+
 <footer class="footer text-faded text-center py-5">
     <div class="footer fix-item-foot">
         <div class="container">
@@ -127,8 +131,6 @@
 
 </footer>
 
-
-
-
-
 </body>
+
+</html>

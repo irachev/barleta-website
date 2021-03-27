@@ -1,15 +1,18 @@
-<?php  include 'all.php'; ?>
+<html lang="en-US">
 
-
+<?php include 'headerCommon.php' ?>
 
 <body>
+
+<?php  include 'all.php'; ?>
+
 
 
 <div class="px-4 px-lg-0">
     <!-- For demo purpose -->
 
-        <h1 class="display-4">Кошница</h1>
-        <h4 class="delivery-text">*Всички продукти са с включено ДДС</h4>
+        <h1 class="display-4"><span class="en-carth-basket">Кошница</span></h1>
+    <h4 class="delivery-text"><span class="en-delivery">*Всички продукти са с включено ДДС</span></h4>
         <p class="lead mb-0"></p>
 
 
@@ -23,11 +26,11 @@
                     <table class="table" id="no-more-tables">
                         <thead>
                         <tr>
-                            <th class="2" data-title="Снимка" scope="col">Снимка</th>
-                            <th class="4" data-title="Име на продукта" scope="col">Име на продукта</th>
-                            <th class="2" data-title="Цена" scope="col">Цена</th>
-                            <th class="2" data-title="Количество" scope="col">Количество</th>
-                            <th class="2" data-title="Премахване" scope="col">Премахване</th>
+                            <th class="2" id="en-carth-image" data-title="Снимка" scope="col">Снимка</th>
+                            <th class="4" id="en-carth-name-product" data-title="Име на продукта" scope="col">Име на продукта</th>
+                            <th class="2" id="en-carth-price" data-title="Цена" scope="col">Цена</th>
+                            <th class="2" id="en-carth-quantity" data-title="Количество" scope="col">Количество</th>
+                            <th class="2" id="en-carth-remove" data-title="Премахване" scope="col">Премахване</th>
                         </tr>
                         </thead>
                         <tbody class="append-tr-product">
@@ -47,7 +50,7 @@
 
 
                     </table>
-                    <a href="pass.php"><span class="and-order-text">Оформяне на поръчката</span></a>
+                    <a href="pass.php"><span class="and-order-text and-order-text-mobile">Оформяне на поръчката</span></a>
                     </div>
                 </div>
             </div>
@@ -95,7 +98,7 @@
                                  width="25"/>
                         </div>
 
-                        <span class="text-image-fix">Магазин за кафе<br>Барлета</span>
+                        <span class="text-image-fix"><span class="en-footer-magazine">Магазин за кафе</span><br><span class="en-footer-barleta">Барлета</span></span>
                     </div>
 
 
@@ -105,7 +108,7 @@
                                  width="25"/>
 
                         </div>
-                        <span class="text-image-fix">гр. Габрово <br>ул. Отец Паисий №12 </span>
+                        <span class="text-image-fix"><span class="en-footer-city">гр. Габрово</span><br><span class="en-footer-street">ул. Отец Паисий №12</span></span>
                     </div>
 
 
@@ -113,7 +116,7 @@
                         <div class="foot-image">
                             <img src="images/img/time-9f65eb7f70fb02e026ceae0d49bc224a-new.png" height="25" width="25"/>
                         </div>
-                        <span class="text-image-fix">Понеделник - събота<br>От 08:00 до 17:30</span>
+                        <span class="text-image-fix en-work-time"><span class="en-footer-work-time">Понеделник - събота</span><br><span class="en-footer-from">От</span> 08:00 <span class="en-footer-to">до</span> 17:30</span></span>
                     </div>
 
 
@@ -147,4 +150,4 @@
 
 
 </body>
-
+</html>

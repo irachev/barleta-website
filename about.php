@@ -1,6 +1,13 @@
-<?php  include 'all.php'; ?>
+
+
+<html lang="en-US">
+
+<?php include 'headerCommon.php' ?>
 
 <body>
+
+<?php  include 'all.php'; ?>
+
 <section class="page-section about-heading">
     <div class="container-list-about">
         <!--      <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../img/about.jpg" alt="">-->
@@ -163,4 +170,4 @@
 </footer>
 
 </body>
-
+</html>
